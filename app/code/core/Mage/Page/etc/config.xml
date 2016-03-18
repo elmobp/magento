@@ -128,6 +128,7 @@
                 <logo_alt>Magento Commerce</logo_alt>
                 <logo_src_small>images/logo.gif</logo_src_small>
                 <welcome>Default welcome msg!</welcome>
+                <h1>WELCOME PEOPLE</h1>
             </header>
             <footer translate="copyright" module="page">
                 <copyright>&amp;copy; 2016 Magento Demo Store. All Rights Reserved.</copyright>

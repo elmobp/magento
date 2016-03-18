@@ -532,6 +532,9 @@ h1, .h1 {
   text-rendering: optimizeLegibility;
   text-transform: uppercase;
 }
+h2 { 
+  font-size: 100px !important;
+}
 
 h2, .h2 {
   margin: 0;
